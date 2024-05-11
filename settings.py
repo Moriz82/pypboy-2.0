@@ -73,7 +73,7 @@ MODULES = {
 # MODULE_TEXT = ["RADIO","MAP","DATA","INV","STAT"]
 MODULE_TEXT = ["STAT", "INV", "DATA", "MAP", "RADIO"]
 
-STARTER_MODULE = "radio"
+STARTER_MODULE = "boot"
 
 ACTIONS = {
     pygame.K_F1: "module_stats",
